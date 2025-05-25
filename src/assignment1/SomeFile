@@ -1,0 +1,19 @@
+x = 10
+y = x * 2
+print "Hello, World!"
+print x + y
+if (x > 5) {
+    print "x is greater than 5"
+}
+i = 0
+while (i < 3) {
+    print i
+    i = i + 1
+}
+function add(a, b) {
+}
+print add(1, 2)
+for (item in arr) {
+    print item
+}
+delete arr[1]
